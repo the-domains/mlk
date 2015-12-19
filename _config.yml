@@ -1,0 +1,28 @@
+name: MLK
+favicon: null
+layout_spectrum: 0.6309441218618304
+typography_spectrum: 0.23718522652052343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21388558275066316
+  lightness: 0.34007441462017596
+  saturation: 0.2068396955728531
+  rhythmicContrast: 0.5521534157451242
+purpose: []
